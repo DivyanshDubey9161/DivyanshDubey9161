@@ -2,8 +2,6 @@
 <h3 align="center">A passionate programmer</h3>
 <br>
 
-- 🌱 I’m currently learning **Backend & Machine Learning**
-
 - 💬 Ask me about **Java , DSA & Core Programming**
 
 - 📫 How to reach me **divyanshd272@gmail.com**
