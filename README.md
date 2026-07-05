@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **divyanshd272@gmail.com**
 
-- ⚡ Fun fact **Be Logical**
+- ⚡ Fun fact **Don't Be Smart Be Logical**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
