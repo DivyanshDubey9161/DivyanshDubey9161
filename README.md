@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Divyansh Dhar Dubey</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">Programmer</h3>
 <br>
 
-- 💬 Ask me about **Java , DSA & Core Programming**
+- Ask me about **Java , DSA & Core Programming**
 
-- 📫 How to reach me **divyanshd272@gmail.com**
+- How to reach me **divyanshd272@gmail.com**
 
-- ⚡ Fun fact **Don't Be Smart Be Logical**
+- Fun fact **Don't Be Smart Be Logical**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
