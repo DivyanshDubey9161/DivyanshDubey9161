@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Divyansh Dhar Dubey</h1>
-<h3 align="center">Programmer</h3>
+<h3 align="center">A Programmer</h3>
 <br>
 
 - Ask me about **Java , DSA & Core Programming**
